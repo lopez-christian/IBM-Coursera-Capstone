@@ -72,7 +72,8 @@ Methodology section which represents the main component of the report where you 
 Results section where you discuss the results.
 Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 Conclusion section where you conclude the report.
-2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)*
+
+*2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)*
 
 *3. Your choice of a presentation or blogpost. (10 marks)*
 ___
