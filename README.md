@@ -1,7 +1,5 @@
 # IBM Data Science Professional Certificate - Applied Data Science Capstone
 
-___
-
 Week 1 - Introduction to Capstone Project
 * Introduction to Capstone Project
 * Location Data Providers
