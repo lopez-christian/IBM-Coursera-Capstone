@@ -15,12 +15,21 @@ Week 2 - Foursquare API
 * Getting Foursquare API Credentials
 * Using Foursquare API
 * Lab: Foursquare API
+
+*In this lab, you will learn in details how to make calls to the Foursquare API for different purposes. You will learn how to construct a URL to send a request to the API to search for a specific type of venues, to explore a particular venue, to explore a Foursquare user, to explore a geographical location, and to get trending venues around a location. Also, you will learn how to use the visualization library, Folium, to visualize the results.*
+
 * Quiz: Foursquare API
 
 Week 3 - Neighborhood Segmentation and Clustering
 * Clustering
 * Lab: Clustering
+
+*There are many models for clustering out there. In this lab, we will be presenting the model that is considered the one of the simplest model among them. Despite its simplicity, k-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.*
+
 * Lab: Segmenting and Clustering Neighborhoods in New York City
+
+*In this lab, you will learn how to convert addresses into their equivalent latitude and longitude values. Also, you will use the Foursquare API to explore neighborhoods in New York City. You will use the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. You will use the k-means clustering algorithm to complete this task. Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters.*
+
 * Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
 Week 4 - Capstone Project
