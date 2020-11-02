@@ -1,4 +1,4 @@
-# <div style="text-align: right">IBM Data Science Professional Certificate - Applied Data Science Capstone</div>
+# <div style="text-align: right">IBM Data Science Professional Certificate - Data Science Capstone</div>
 
 
 <p align="center">
