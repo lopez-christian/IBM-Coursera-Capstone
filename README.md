@@ -1,5 +1,9 @@
 # IBM Data Science Professional Certificate - Applied Data Science Capstone
 
+<p align="center">
+<img width="629" alt="Screen Shot 2020-11-01 at 7 37 58 PM" src="https://user-images.githubusercontent.com/53641091/97827697-dda30100-1c79-11eb-96c7-ecf13c87ff13.png">
+</p>
+
 Week 1 - Introduction to Capstone Project
 * Introduction to Capstone Project
 * Location Data Providers
