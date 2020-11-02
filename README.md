@@ -4,7 +4,7 @@
 <img width="622" alt="Screen Shot 2020-11-01 at 7 40 15 PM" src="https://user-images.githubusercontent.com/53641091/97827787-2064d900-1c7a-11eb-8f69-42e6ac47c367.png">
 </p>
 
-Week 1 - Introduction to Capstone Project
+### Week 1 - Introduction to Capstone Project
 * Introduction to Capstone Project
 * Location Data Providers
 * Signing-up for a Watson Studio Account
@@ -13,7 +13,7 @@ Week 1 - Introduction to Capstone Project
 
 *In this assignment, you will be asked to create a new repository on your Github account, and to create a Jupyter Notebook and submit a shareable link to it for peer evaluation.*
 
-Week 2 - Foursquare API
+### Week 2 - Foursquare API
 * Introduction to Foursquare
 * Getting Foursquare API Credentials
 * Using Foursquare API
@@ -24,7 +24,7 @@ Week 2 - Foursquare API
 
 * Quiz: Foursquare API
 
-Week 3 - Neighborhood Segmentation and Clustering
+### Week 3 - Neighborhood Segmentation and Clustering
 * Clustering
 
 <ins>Lab: Clustering</ins>
@@ -45,7 +45,7 @@ Week 3 - Neighborhood Segmentation and Clustering
 
 *Your submission will be a link to your Jupyter Notebook on your Github repository.*
 
-Week 4 - Capstone Project
+### Week 4 - Capstone Project
 * Define a problem for your capstone project
 * Discuss the data that you will use to solve the problem
 
@@ -57,7 +57,7 @@ Week 4 - Capstone Project
 In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
 These are just a couple of many ideas and problems that can be solved using location data in addition to other datasets. No matter what you decide to do, make sure to provide sufficient justification of why you think what you want to do or solve is important and why would a client or a group of people be interested in your project.*
 
-Week 5 - Capstone Project (Cont'd)
+### Week 5 - Capstone Project (Cont'd)
 * Carry out the remaining work to complete the capstone project
 * Submit a link to your project notebook and a complete project report
 
