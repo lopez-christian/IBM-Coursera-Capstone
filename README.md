@@ -29,5 +29,7 @@ Week 5 - Capstone Project (Cont'd)
 * Submit a link to your project notebook and a complete project report
 * Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
 
-### Link to the course: https://www.coursera.org/professional-certificates/ibm-data-science
-### Link to blog post: https://lopez-christian.github.io/2020-11-01-IBM-applied-data-science-capstone/
+___
+
+#### Link to the course: https://www.coursera.org/professional-certificates/ibm-data-science
+#### Link to blog post: https://lopez-christian.github.io/2020-11-01-IBM-applied-data-science-capstone/
