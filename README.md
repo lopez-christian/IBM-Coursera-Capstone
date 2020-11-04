@@ -80,3 +80,4 @@ ___
 
 #### LINK TO COURSE: https://www.coursera.org/professional-certificates/ibm-data-science
 #### LINK TO BLOG POST: https://lopez-christian.github.io/2020-11-01-IBM-applied-data-science-capstone/
+#### LINK TO PROFESSIONAL CERTIFICATE: 
